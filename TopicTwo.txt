@@ -1,0 +1,30 @@
+Aerodynamics
+-200-
+What force acts in the opposite direction of thrust?
+Drag
+What is the name for the cross-section of a wing?
+Airfoil
+-400-
+What is air resistance?
+The force acting opposite to the relative motion of any object moving.
+If a boulder and feather are dropped at the same height, which reaches the ground first?
+The boulder because the feather has more air resistance
+What modern view of airplane flight relies on another famous scientific principle?
+Newton's third law of motion
+-600-
+What are the two factors that affect air resistance?
+Speed and surface area
+What's the relationship between the angle of attack and lift?
+As the angle of attack increases, lift increases.
+-800-
+What term describes the degree to which an airfoil is curved?
+Camber
+What are the two main types of drag?
+Parasitic and induced
+What number can be determined by dividing the speed of an aircraft by the speed of sound in air?
+Mach Number
+-1000-
+When air flows over an airplane wing, it sticks to the surface. What’s the name of this process?
+Coanda effect
+What are the name of airplane wings that are angled backwards instead of the traditional forwards.
+Reverse-swept wings

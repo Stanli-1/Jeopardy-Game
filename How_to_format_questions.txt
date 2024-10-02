@@ -1,0 +1,34 @@
+This file will explain how this program reads and stores questions/answers.
+
+1) The first line must be the topic name (Ex. Gravitation)
+2) Create a header for each difficulty of question that represents the cash value (Ex. 200)
+3) Under each header, it is always question then answer, with each on its own line
+
+Example of a topic Q/A file:
+
+Gravitation
+200
+What are the units of gravity?
+m/s^2
+Which scientist had an apple fall on their head?
+Isaac Newton
+400
+What is the first letter of the alphabet?
+A
+What is 2 + 3?
+5
+600
+What is the first letter of the alphabet?
+A
+What is 2 + 3?
+5
+800
+What is the first letter of the alphabet?
+A
+What is 2 + 3?
+5
+1000
+What is the first letter of the alphabet?
+A
+What is 2 + 3?
+5
